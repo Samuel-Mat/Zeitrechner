@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Daten\\Hausaufgaben\\LernA\\Zeitrechner\\ZeitrechnerCode\\ZeitrechnerCode\\wwwroot\\Roboto-Medium.ttf",
+      "PackagePath": "staticwebassets\\Roboto-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Daten\\Hausaufgaben\\LernA\\Zeitrechner\\ZeitrechnerCode\\ZeitrechnerCode\\wwwroot\\app.js",
+      "PackagePath": "staticwebassets\\app.js"
+    },
+    {
+      "Id": "C:\\Daten\\Hausaufgaben\\LernA\\Zeitrechner\\ZeitrechnerCode\\ZeitrechnerCode\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Daten\\Hausaufgaben\\LernA\\Zeitrechner\\ZeitrechnerCode\\ZeitrechnerCode\\wwwroot\\style.css",
+      "PackagePath": "staticwebassets\\style.css"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.ZeitrechnerCode.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.ZeitrechnerCode.props",
+      "PackagePath": "build\\ZeitrechnerCode.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.ZeitrechnerCode.props",
+      "PackagePath": "buildMultiTargeting\\ZeitrechnerCode.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.ZeitrechnerCode.props",
+      "PackagePath": "buildTransitive\\ZeitrechnerCode.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
