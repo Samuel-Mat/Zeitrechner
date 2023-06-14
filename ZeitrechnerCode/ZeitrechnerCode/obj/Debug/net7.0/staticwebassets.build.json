@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "7trdQ9jpF0vCaqb6Bg/xz7kUCH9pp8IZYmhzoXbxj0I=",
+  "Source": "ZeitrechnerCode",
+  "BasePath": "_content/ZeitrechnerCode",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ZeitrechnerCode\\wwwroot",
+      "Source": "ZeitrechnerCode",
+      "ContentRoot": "C:\\Daten\\Hausaufgaben\\LernA\\Zeitrechner\\ZeitrechnerCode\\ZeitrechnerCode\\wwwroot\\",
+      "BasePath": "_content/ZeitrechnerCode",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Daten\\Hausaufgaben\\LernA\\Zeitrechner\\ZeitrechnerCode\\ZeitrechnerCode\\wwwroot\\app.js",
+      "SourceId": "ZeitrechnerCode",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Daten\\Hausaufgaben\\LernA\\Zeitrechner\\ZeitrechnerCode\\ZeitrechnerCode\\wwwroot\\",
+      "BasePath": "_content/ZeitrechnerCode",
+      "RelativePath": "app.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\app.js"
+    },
+    {
+      "Identity": "C:\\Daten\\Hausaufgaben\\LernA\\Zeitrechner\\ZeitrechnerCode\\ZeitrechnerCode\\wwwroot\\index.html",
+      "SourceId": "ZeitrechnerCode",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Daten\\Hausaufgaben\\LernA\\Zeitrechner\\ZeitrechnerCode\\ZeitrechnerCode\\wwwroot\\",
+      "BasePath": "_content/ZeitrechnerCode",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Daten\\Hausaufgaben\\LernA\\Zeitrechner\\ZeitrechnerCode\\ZeitrechnerCode\\wwwroot\\Roboto-Medium.ttf",
+      "SourceId": "ZeitrechnerCode",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Daten\\Hausaufgaben\\LernA\\Zeitrechner\\ZeitrechnerCode\\ZeitrechnerCode\\wwwroot\\",
+      "BasePath": "_content/ZeitrechnerCode",
+      "RelativePath": "Roboto-Medium.ttf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Roboto-Medium.ttf"
+    },
+    {
+      "Identity": "C:\\Daten\\Hausaufgaben\\LernA\\Zeitrechner\\ZeitrechnerCode\\ZeitrechnerCode\\wwwroot\\style.css",
+      "SourceId": "ZeitrechnerCode",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Daten\\Hausaufgaben\\LernA\\Zeitrechner\\ZeitrechnerCode\\ZeitrechnerCode\\wwwroot\\",
+      "BasePath": "_content/ZeitrechnerCode",
+      "RelativePath": "style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\style.css"
+    }
+  ]
+}
